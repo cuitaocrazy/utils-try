@@ -1,6 +1,6 @@
 const trySymbol = Symbol('try')
 
-module.exprots = function Try(fn) {
+module.exports = function Try(fn) {
   let res
   let err
   try {

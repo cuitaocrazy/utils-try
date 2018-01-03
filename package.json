@@ -1,0 +1,22 @@
+{
+  "name": "utils-try",
+  "version": "1.0.0",
+  "description": "ct's utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuitaocrazy/utils-try.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "cuitao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuitaocrazy/utils-try/issues"
+  },
+  "homepage": "https://github.com/cuitaocrazy/utils-try#readme"
+}
